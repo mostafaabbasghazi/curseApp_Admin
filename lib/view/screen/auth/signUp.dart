@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:ui_response/core/const/color.dart';
 import 'package:ui_response/core/const/style.dart';
 import 'package:ui_response/view/widget/auth/inputauth.dart';
-import 'package:ui_response/view/widget/auth/login/button.dart';
-import 'package:ui_response/view/widget/auth/login/forgetpassword.dart';
-import 'package:ui_response/view/widget/auth/login/subtitle.dart';
-import 'package:ui_response/view/widget/auth/login/title.dart';
+import 'package:ui_response/view/widget/auth/button.dart';
+import 'package:ui_response/view/widget/auth/forgetpassword.dart';
+import 'package:ui_response/view/widget/auth/subtitle.dart';
+import 'package:ui_response/view/widget/auth/title.dart';
 
 class Signup extends StatefulWidget {
   const Signup({super.key});

@@ -1,0 +1,4 @@
+enum EnumDirection {
+  rtl,
+  ltr,
+}
